@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="judul_aplikasi_kalkulator">Aplikasi Kalkulator Sederhana</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">X</string>
+    <string name="bagi">÷</string>
+    <string name="bersihkan">BERSIHKAN</string>
+    <string name="hasil">HASIL</string>
+    <string name="nol">0</string>
+    <string name="masukan_angka_kedua">Masukan angka kedua</string>
+    <string name="masukan_angka_pertama">Masukan angka pertama</string>
+    <string name="masukan_dua_angka">MASUKAN DUA ANGKA</string>
+</resources>
